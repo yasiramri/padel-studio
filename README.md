@@ -9,38 +9,8 @@ A minimal, carefully structured Shopify theme designed to help you quickly get s
 
 <p align="center">
   <a href="./LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="./actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Shopify/padel-studio/actions/workflows/ci.yml/badge.svg"></a>
+  <!-- <a href="./actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Shopify/padel-studio/actions/workflows/ci.yml/badge.svg"></a> -->
 </p>
-
-## Getting started
-
-### Prerequisites
-
-Before starting, ensure you have the latest Shopify CLI installed:
-
-- [Shopify CLI](https://shopify.dev/docs/api/shopify-cli) – helps you download, upload, preview themes, and streamline your workflows
-
-If you use VS Code:
-
-- [Shopify Liquid VS Code Extension](https://shopify.dev/docs/storefronts/themes/tools/shopify-liquid-vscode) – provides syntax highlighting, linting, inline documentation, and auto-completion specifically designed for Liquid templates
-
-### Clone
-
-Clone this repository using Git or Shopify CLI:
-
-```bash
-git clone git@github.com:Shopify/padel-studio.git
-# or
-shopify theme init
-```
-
-### Preview
-
-Preview this theme using Shopify CLI:
-
-```bash
-shopify theme dev
-```
 
 ## Theme architecture
 
